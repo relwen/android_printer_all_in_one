@@ -35,24 +35,24 @@
     <string name="title_other_devices">Other Available Devices</string>
     <string name="button_scan">Scan for new devices</string>
     <!-- Options Menu -->
-    <string name="connect">Open Connect(%1$s)</string>
-    <string name="disconnect">Close Connection</string>
+    <string name="connect">Se connecter(%1$s)</string>
+    <string name="disconnect">Fermer la connexion</string>
     <!-- main.xml -->
     <string name="edit_hint">Printer Name(such as T9)</string>
-    <string name="print_text">Print Text</string>
-    <string name="print_table">Print Table</string>
-    <string name="print_image">Print Image</string>
-    <string name="print_custom_image">Print Custom Image</string>
-    <string name="print_note">Print Note</string>
+    <string name="print_text">Imprimer Texte</string>
+    <string name="print_table">Imprimer Tableeau</string>
+    <string name="print_image">Imprimer Image</string>
+    <string name="print_custom_image">Impression Custom image</string>
+    <string name="print_note">Imprimer une note</string>
     <string name="print_title">Print Title</string>
     <string name="bar_code_hint">Input bar code, such as: No.123456</string>
-    <string name="print_bar_code">Print Bar Code</string>
+    <string name="print_bar_code">Imprimer Code Barre</string>
     <string name="open_file">open file</string>
     <string name="save_file">save file</string>
     <string name="save_as_file">save as file</string>
     <string name="print_file">print text</string>
     <string name="save_ok">OK</string>
-    <string name="save_cancel">Cancel</string>
+    <string name="save_cancel">Annuler</string>
     <string name="toast_input_name">Please input file name!</string>
     <string name="toast_save_null">Please don\'t save null file!</string>
     <string name="toast_print_null">Please don\'t print null file!</string>
@@ -103,8 +103,8 @@
     <string name="umbrella">Umbrella</string>
     <string name="hook">Wire hook</string>
     <string name="choose_barcode_type">BarCode Type:</string>
-    <string name="choose_paper_width">Paper Width:</string>
-    <string name="choose_printer_type">Printer Type:</string>
+    <string name="choose_paper_width">Largeur papier:</string>
+    <string name="choose_printer_type">Type de papier:</string>
     <string name="choose_Encoding">Encoding Type:</string>
     <string name="printer_type_remin">Thermal</string>
     <string name="printer_type_styuls">Stylus</string>
