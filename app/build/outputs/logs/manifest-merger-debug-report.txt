@@ -1,0 +1,192 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\583d54cbfd2ef214896813fc31d582f3\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\d8aeab1c0faeea980316f215b1a9cfd2\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba4b22937a43943863ba26220dfba698\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f0880e62e0343b33315e6c5ff2260d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\71ff9bd7ef3119655f4644245d315724\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8602fa570e243f53b150d00b4f236db2\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a09d1b85203bd8bff08b80323dcd4e63\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4e943498667835815e2516cdd852334a\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\413ecf1c4f75d143331139b55755a13b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cc7fd6eaf0fc8685dba758d5f9f5572\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\81db7011d8746e5bd2ea2b0abaf8784e\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2f7a91665fbd75daf9619c51503c961c\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a09d1f5d11d531c4871dea6ae2b13fc8\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a9fbe9bd4ea6c75e05cfc8d2e7fd6ea4\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0ec2b51d2b1d3020caa0e8365776f187\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2b9c77f6b65daa61672f17d36d798c56\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\7596c5143b57a62e3f67d4565a3bb924\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4b19eb515ed5b94a7247bb4ec1c0087d\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e47531bab1c127f264a7b5da1c4799ce\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c3030015d9f51bcbb8651592f29db84\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\07b58b8321c9f3afe8940701f3b83a4a\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\c80854cf890f00e469947dea0524e76c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4d2fa1e7637a23b8140d2a6cb92df90c\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1f9cfbc05cbd909564a19ebad9a87fa6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2d62c227585ee848037e5a5c53c92d40\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:9:5-75
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:11:5-66
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:11:22-64
+uses-permission#android.hardware.usb.host
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:12:22-62
+application
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:14:5-39:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a9fbe9bd4ea6c75e05cfc8d2e7fd6ea4\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a9fbe9bd4ea6c75e05cfc8d2e7fd6ea4\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0ec2b51d2b1d3020caa0e8365776f187\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0ec2b51d2b1d3020caa0e8365776f187\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a9fbe9bd4ea6c75e05cfc8d2e7fd6ea4\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:16:9-45
+	android:allowBackup
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:15:9-35
+	android:theme
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:18:9-40
+activity#com.android.print.demo.MainActivity
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:22:13-49
+	android:label
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.android.print.demo.BluetoothDeviceList
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:30:9-33:59
+	android:screenOrientation
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:32:13-49
+	android:theme
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:33:13-56
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:31:13-48
+activity#com.android.print.demo.UsbDeviceList
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:34:9-37:59
+	android:screenOrientation
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:36:13-49
+	android:theme
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:35:13-42
+activity#com.android.print.demo.IpAddressEdit
+ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:38:9-88
+	android:theme
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:38:49-85
+	android:name
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml:38:19-48
+uses-sdk
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\583d54cbfd2ef214896813fc31d582f3\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\583d54cbfd2ef214896813fc31d582f3\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\d8aeab1c0faeea980316f215b1a9cfd2\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\d8aeab1c0faeea980316f215b1a9cfd2\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba4b22937a43943863ba26220dfba698\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\ba4b22937a43943863ba26220dfba698\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f0880e62e0343b33315e6c5ff2260d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e5f0880e62e0343b33315e6c5ff2260d\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\71ff9bd7ef3119655f4644245d315724\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\71ff9bd7ef3119655f4644245d315724\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8602fa570e243f53b150d00b4f236db2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\8602fa570e243f53b150d00b4f236db2\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a09d1b85203bd8bff08b80323dcd4e63\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a09d1b85203bd8bff08b80323dcd4e63\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4e943498667835815e2516cdd852334a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4e943498667835815e2516cdd852334a\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\413ecf1c4f75d143331139b55755a13b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\413ecf1c4f75d143331139b55755a13b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cc7fd6eaf0fc8685dba758d5f9f5572\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4cc7fd6eaf0fc8685dba758d5f9f5572\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\81db7011d8746e5bd2ea2b0abaf8784e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\81db7011d8746e5bd2ea2b0abaf8784e\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2f7a91665fbd75daf9619c51503c961c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2f7a91665fbd75daf9619c51503c961c\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a09d1f5d11d531c4871dea6ae2b13fc8\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a09d1f5d11d531c4871dea6ae2b13fc8\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a9fbe9bd4ea6c75e05cfc8d2e7fd6ea4\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\a9fbe9bd4ea6c75e05cfc8d2e7fd6ea4\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0ec2b51d2b1d3020caa0e8365776f187\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\0ec2b51d2b1d3020caa0e8365776f187\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2b9c77f6b65daa61672f17d36d798c56\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2b9c77f6b65daa61672f17d36d798c56\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\7596c5143b57a62e3f67d4565a3bb924\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\7596c5143b57a62e3f67d4565a3bb924\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4b19eb515ed5b94a7247bb4ec1c0087d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4b19eb515ed5b94a7247bb4ec1c0087d\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e47531bab1c127f264a7b5da1c4799ce\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\e47531bab1c127f264a7b5da1c4799ce\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c3030015d9f51bcbb8651592f29db84\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\6c3030015d9f51bcbb8651592f29db84\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\07b58b8321c9f3afe8940701f3b83a4a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\07b58b8321c9f3afe8940701f3b83a4a\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\c80854cf890f00e469947dea0524e76c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\c80854cf890f00e469947dea0524e76c\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4d2fa1e7637a23b8140d2a6cb92df90c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\4d2fa1e7637a23b8140d2a6cb92df90c\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1f9cfbc05cbd909564a19ebad9a87fa6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\1f9cfbc05cbd909564a19ebad9a87fa6\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2d62c227585ee848037e5a5c53c92d40\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\admin\.gradle\caches\transforms-2\files-2.1\2d62c227585ee848037e5a5c53c92d40\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Documents\android_print_demo\app\src\main\AndroidManifest.xml
